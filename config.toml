@@ -79,6 +79,10 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   customCSS = []            # if ['custom.css'], load '/static/css/custom.css' file
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
+  # 去除工程目录 prefix 文件路径
+  [params.static_prefix]
+      name = "/static"
+    
   [params.social]                                         # 社交链接
     a-email = "mailto:kesalin@gmail.com"
     j-douban = "https://www.douban.com/people/kesalin/"

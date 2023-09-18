@@ -22,7 +22,7 @@ menu:
 
 ### 评价统计:
 
-![评价统计](/images/posts/2019_reading_rate.png)
+![评价统计](/image/posts/annual-reading/2019_reading_rate.png)
 
  * 五星图书 8 本，占比 26.7%  
  * 四星图书 12 本，占比 40.0%  
@@ -30,9 +30,11 @@ menu:
  * 两星图书 3 本，占比 10.0%  
  * 一星图书 3 本，占比 10.0%
 
+<!--more-->
+
 ### 标签统计:
 
-![标签统计](/images/posts/2019_reading_tags.png)
+![标签统计](/image/posts/annual-reading/2019_reading_tags.png)
 
  * 心理 6 本  
  * 教育 6 本  
@@ -46,8 +48,6 @@ menu:
  * 文学 1 本  
  * 科学 1 本  
  * 管理 1 本
-
-<!--more-->
 
 
 ## 分类统计
@@ -311,16 +311,16 @@ menu:
 
 
 ## 历年阅读统计
-* [2022，29本](https://luozhaohui.github.io/blog/2022/12/31/reading/) 
-* [2021，85本](https://luozhaohui.github.io/blog/2021/12/31/reading/) 
-* [2020，45本](https://luozhaohui.github.io/blog/2020/12/31/reading/) 
-* [2019，30本](https://luozhaohui.github.io/blog/2019/12/31/reading/) 
-* [2018，31本](https://luozhaohui.github.io/blog/2018/12/31/reading/) 
-* [2017，37本](https://luozhaohui.github.io/blog/2017/12/31/reading/) 
-* [2016，46本](https://luozhaohui.github.io/blog/2016/12/31/reading/) 
-* [2015，46本](https://luozhaohui.github.io/blog/2015/12/31/reading/) 
-* [2014，65本](https://luozhaohui.github.io/blog/2014/12/31/reading/) 
-* [2013，33本](https://luozhaohui.github.io/blog/2013/12/31/reading/) 
-* [2012，43本](https://luozhaohui.github.io/blog/2012/12/31/reading/) 
-* [2011，41本](https://luozhaohui.github.io/blog/2011/12/31/reading/) 
-* [2010，47本](https://luozhaohui.github.io/blog/2010/12/31/reading/) 
+* [2022，29本](/post/annual-reading/2022-12-31-reading/) 
+* [2021，85本](/post/annual-reading/2021-12-31-reading/) 
+* [2020，45本](/post/annual-reading/2020-12-31-reading/) 
+* [2019，30本](/post/annual-reading/2019-12-31-reading/) 
+* [2018，31本](/post/annual-reading/2018-12-31-reading/) 
+* [2017，37本](/post/annual-reading/2017-12-31-reading/) 
+* [2016，46本](/post/annual-reading/2016-12-31-reading/) 
+* [2015，46本](/post/annual-reading/2015-12-31-reading/) 
+* [2014，65本](/post/annual-reading/2014-12-31-reading/) 
+* [2013，33本](/post/annual-reading/2013-12-31-reading/) 
+* [2012，43本](/post/annual-reading/2012-12-31-reading/) 
+* [2011，41本](/post/annual-reading/2011-12-31-reading/) 
+* [2010，47本](/post/annual-reading/2010-12-31-reading/) 
