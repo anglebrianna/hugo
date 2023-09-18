@@ -5,6 +5,17 @@ if [ $# -lt  1 ]; then
 fi
 msg="$1"
 
+echo -e "\033[0;32mPushing changes to GitHub...\033[0m"
+git commit -m "$msg"
+if [ $? -ne 0 ]; then
+    echo "Commit failed"
+    exit 1
+fi
+git push origin master
+if [ $? -ne 0 ]; then
+    echo "Push failed"
+fi
+
 echo -e "\033[0;32mDeploying pages to GitHub...\033[0m"
 # Build the project.
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
@@ -19,14 +30,3 @@ git push origin master
 
 # Come Back up to the Project Root
 cd ..
-
-echo -e "\033[0;32mPushing changes to GitHub...\033[0m"
-git commit -m "$msg"
-if [ $? -ne 0 ]; then
-    echo "Commit failed"
-    exit 1
-fi
-git push origin master
-if [ $? -ne 0 ]; then
-    echo "Push failed"
-fi
