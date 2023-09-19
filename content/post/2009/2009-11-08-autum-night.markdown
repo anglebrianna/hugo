@@ -1,12 +1,12 @@
 ---
-layout: post
 title: "秋夜"
-date: 2009-11-08 20:33:25 +0800
-comments: true
-categories: [碎碎念]
-tags: [碎碎念, 心情]
-description: 秋夜
-keywords: 心情
+date: 2009-11-08T23:14:00+08:00
+categories: [
+    "碎碎念",
+]
+tags: [
+    "碎碎念",
+]
 ---
 
 这几天，颇有些闹情绪。晚上，推开房门，走在台阶上。

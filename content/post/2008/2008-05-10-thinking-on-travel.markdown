@@ -1,12 +1,12 @@
 ---
-layout: post
 title: "旅途中的思考"
-date: 2008-05-10 09:16:00
-comments: true
-categories: [碎碎念]
-tags: [碎碎念, 思维]
-description: 旅途中的思考
-keywords: 思维
+date: 2008-05-10T23:14:00+08:00
+categories: [
+    "碎碎念",
+]
+tags: [
+    "碎碎念",
+]
 ---
 
 1. 优先关注重要的人，优先处理重要的事
