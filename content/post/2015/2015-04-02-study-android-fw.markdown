@@ -1,21 +1,22 @@
 ---
-layout: post
-title: "Android框架学习资料"
-date: 2015-04-02 19:00:34 +0800
-comments: true
-categories: [书评影评, 软件开发]
-tags: [书评, 编程]
-description: Android框架学习资料
-keywords: Android, Android framework
+title: "Android Framework 学习资料"
+date: 2015-04-02T23:14:00+08:00
+categories: [
+    "书评",
+]
+tags: [
+    "Android",
+    "软件开发",
+]
 ---
 
 ## 前言
 
-这两年在做一个与 Android 类似的系统（参考：[招聘：有兴趣做一个与Android对等的操作系统么？](http://blog.csdn.net/kesalin/article/details/10474007)），因此有机会对 Android framework 进行系统地学习与研究。期间也阅读了一些不错的书籍与资料，特此分享在这里，或许对其他有兴趣研究 Android framework 的朋友有所帮助。
+这两年在做一个与 Android 类似的系统（[招聘：有兴趣做一个与Android对等的操作系统么？](http://blog.csdn.net/kesalin/article/details/10474007)），因此有机会对 `Android framework` 进行系统地学习与研究。期间也阅读了一些不错的书籍与资料，特此分享在这里，或许对其他有兴趣研究 `Android framework` 的朋友有所帮助。
 
 <!--more-->
 
-## 推荐资料
+## 推荐书籍
 
 ### [Android开发精要](http://book.douban.com/subject/11530748/)
 这一本是作为入门本，主要是从 app 开发者的角度来介绍 framework 中的各要素，从这个角度来理解框架中哪些部分直接和 App 开发相关，又起什么作用。要仔细研究 framework 内部机制，首先从外部特性入手，这样在横向层面对 framework 有一个整体的认识与把握。第3章至第6章是这本书的精华所在，重点介绍了 Android 的组件思想以及组件之间的交互媒介 Intent。
