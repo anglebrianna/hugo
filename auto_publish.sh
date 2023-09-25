@@ -6,6 +6,7 @@ fi
 msg="$1"
 
 echo -e "\033[0;32mPushing changes to GitHub...\033[0m"
+git add content
 git commit -m "$msg"
 if [ $? -ne 0 ]; then
     echo "Commit failed"

@@ -2,8 +2,8 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "https://floatingcloud1983.github.io/"
-title = "飘飘白云：所读，所观，所思"
+baseURL = "https://anglebrianna.github.io/"
+title = "Brianna 的个人天地"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
@@ -22,8 +22,8 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   languageCode = "zh-cn"
 
 [author]
-  name = "飘飘白云"        # essential                     # 必需
-  url = "/关于"          # optional                      # 可选
+  name = "Brianna"        # essential                     # 必需
+  url = "/about"          # optional                      # 可选
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -50,10 +50,6 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   weight = 40
   identifier = "categories"
   pageref = "/categories/"
-[[menu.main]]
-  name = "其它链接"
-  weight = 50
-  pageref = "https://gohugo.io"
 
 
 [params]
@@ -62,9 +58,9 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "飘飘白云"        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["飘飘白云", "罗朝辉", "kesalin"]
-  description = "飘飘白云的思绪停留地"
+  logoTitle = "Brianna"        # default: the title value    # 默认值: 上面设置的title值
+  keywords = ["Brianna", "嘟嘟"]
+  description = "Brianna 的个人天地"
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "2006-01-02"
@@ -87,7 +83,7 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
   toc = true                                                                            # 是否开启目录
   photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe            # 是否启用PhotoSwipe（图片可点击）
-  contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+  contentCopyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a>进行许可。'
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
@@ -98,33 +94,29 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   [params.static_prefix]
       name = "/static"
     
-  [params.social]                                         # 社交链接
-    a-email = "mailto:kesalin@gmail.com"
-    j-douban = "https://www.douban.com/people/kesalin/"
-    #b-stack-overflow = "http://localhost:1313"
-    #c-twitter = "http://localhost:1313"
-    #d-facebook = "http://localhost:1313"
-    #e-linkedin = "http://localhost:1313"
-    #f-google = "http://localhost:1313"
-    #g-github = "http://localhost:1313"
-    #h-weibo = "http://localhost:1313"
-    #i-zhihu = "http://localhost:1313"
-    #k-pocket = "http://localhost:1313"
-    #l-tumblr = "http://localhost:1313"
-    #m-instagram = "http://localhost:1313"
-    #n-gitlab = "http://localhost:1313"
-    #o-goodreads = "http://localhost:1313"
-    #p-coding = "http://localhost:1313"
-    #q-bilibili = "http://localhost:1313"
-    #r-codeforces = "http://localhost:1313"
-    #s-mastodon = "http://localhost:1313"
-    #t-youtube = "http://localhost:1313"
-    #u-twitch = "http://localhost:1313"
+  #[params.social]                                         # 社交链接
+  #  a-email = "mailto:kesalin@gmail.com"
+  #  j-douban = "https://www.douban.com/people/kesalin/"
 
-  [params.reward]                                         # 文章打赏
-    enable = true
-    wechat = "/image/pay/weixinpay.png"                   # 微信二维码
-    alipay = "/image/pay/alipay.png"                      # 支付宝二维码
+  #[params.reward]                                         # 文章打赏
+  #  enable = true
+  #  wechat = "/image/pay/weixinpay.png"                   # 微信二维码
+  #  alipay = "/image/pay/alipay.png"                      # 支付宝二维码
     
   [params.counter.busuanzi]  # a Chinese visitor counter  # 不蒜子计数器
     enable = false
+
+  [params.giscus]         # giscus is a comment system based on GitHub Discussions. see https://giscus.app
+    enable = true
+    repo = "luozhaohui/luozhaohui.github.io"
+    repoId = "MDEwOlJlcG9zaXRvcnk4Njc3MzkxNA=="
+    category = "Announcements"
+    categoryId = "DIC_kwDOBSwQms4CZgMx"
+    mapping = "pathname"  # comment value is the default value
+    strict = 0
+    reactionsEnabled = 1
+    emitMetadata = 0
+    inputPosition = "top"
+    theme = "light"
+    lang = "zh-CN"
+    lazyLoading = true

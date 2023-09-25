@@ -11,7 +11,14 @@ Remove `by` from `themes/jane/layouts/partials/post/meta.html`
 ### deploy
 setup public files
 ```
-git clone git@github.com:floatingcloud1983/floatingcloud1983.github.io.git -b master public
+git clone git@github-hugo:anglebrianna/hugo.git
+
+git submodule init
+git submodule update
+
+cd hugo.hugo
+
+git clone git@github-hugo:anglebrianna/anglebrianna.github.io.git public
 
 ```
 
