@@ -50,6 +50,16 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   weight = 40
   identifier = "categories"
   pageref = "/categories/"
+[[menu.main]]
+  name = "书籍"
+  weight = 50
+  identifier = "book"
+  pageref = "/book/all"
+[[menu.main]]
+  name = "电影"
+  weight = 60
+  identifier = "movie"
+  pageref = "/movie/all"
 
 
 [params]
