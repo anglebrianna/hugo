@@ -71,7 +71,8 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   logoTitle = "Brianna"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Brianna", "嘟嘟"]
   description = "Brianna 的个人天地"
-  showTodayPoetry = false
+  showTodayPoetry = false   # 开启今日诗词
+  showHitokoto = true       # 开启一言：https://developer.hitokoto.cn/sentence/
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "2006-01-02"
