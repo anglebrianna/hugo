@@ -95,7 +95,7 @@ tags: [
 * [人类-体内的世界](https://movie.douban.com/subject/35465110/)
 * [Serengeti](https://movie.douban.com/subject/34454232/)
 * [动物本色](https://movie.douban.com/subject/35651101/)
-* [荒野间谍](荒野间谍)
+* [荒野间谍](https://movie.douban.com/subject/26959212/)
 * [鲨鱼 BBC-2015](https://movie.douban.com/subject/26386580/)
 * [神话的森林](https://movie.douban.com/subject/6412608/)
 * [小小世界](https://movie.douban.com/subject/35203215/)
