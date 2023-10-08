@@ -5,6 +5,11 @@
     {{ partial "comments/commento.html" . }}
   {{- end }}
 
+  <!-- CommentBox -->
+  {{- if .Site.Params.commentbox.enable -}}
+    {{ partial "comments/commentbox.html" . }}
+  {{- end }}
+
   <!-- giscus -->
   {{ if .Site.Params.giscus.enable }}
     {{ partial "comments/giscus.html" . }}

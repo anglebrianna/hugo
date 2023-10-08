@@ -121,6 +121,9 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   [params.cusdis]         # cusdis is a comment system. see https://cusdis.com/
     enable = true
 
+  [params.commentbox]     # commentbox is a comment system. see https://commentbox.io/
+    enable = false
+
   [params.giscus]         # giscus is a comment system based on GitHub Discussions. see https://giscus.app
     enable = false
     repo = "luozhaohui/luozhaohui.github.io"
