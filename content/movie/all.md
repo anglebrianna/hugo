@@ -57,22 +57,22 @@ tags: [
 * [蝴蝶梦：梁山伯与祝英台](https://movie.douban.com/subject/2978752/)
 * [爱丽丝漫游仙境](https://movie.douban.com/subject/1310178/)
 * [猫鼬：蒙哥](https://movie.douban.com/subject/3012012/)
-* [冰雪奇缘](https://movie.douban.com/subject/4202982/)
-* [冰雪奇缘2](https://movie.douban.com/subject/25887288/)
+* [冰雪奇缘](https://movie.douban.com/subject/4202982/): ★★★★★
+* [冰雪奇缘2](https://movie.douban.com/subject/25887288/): ★★★★★
 * [飞屋环游记](https://movie.douban.com/subject/2129039/)
 * [仙履奇缘.Cinderella.1950](https://movie.douban.com/subject/1294461/)
 * [小熊维尼](https://movie.douban.com/subject/4729201/)
 * [魔女宅急便](https://movie.douban.com/subject/1307811/)
 * [哈尔的移动城堡](https://movie.douban.com/subject/1308807/)
-* [查理与巧克力工厂](https://movie.douban.com/subject/1309101/)
-* [了不起的狐狸爸爸](https://movie.douban.com/subject/1759386/)
-* [天空之城](https://movie.douban.com/subject/1291583/)
-* [龙猫](https://movie.douban.com/subject/1291560/)
+* [查理与巧克力工厂](https://movie.douban.com/subject/1309101/): ★★★★★
+* [了不起的狐狸爸爸](https://movie.douban.com/subject/1759386/): ★★★★★
+* [天空之城](https://movie.douban.com/subject/1291583/): ★★★★★
+* [龙猫](https://movie.douban.com/subject/1291560/): ★★★★★
 * [借东西的小人阿莉埃蒂](https://movie.douban.com/subject/4202302/)
 * [狐狸与猎狗.The.Fox.and.the.Hound.1981](https://movie.douban.com/subject/1293240/)
 * [白雪公主和七个小矮人.1937](https://movie.douban.com/subject/1297756/)
-* [小猪佩奇英文版](https://movie.douban.com/subject/3036644/)
-* [小马宝莉英文版](https://movie.douban.com/subject/20391434/)
+* [小猪佩奇英文版](https://movie.douban.com/subject/3036644/): ★★★★★
+* [小马宝莉英文版](https://movie.douban.com/subject/20391434/): ★★★★★
 * [猫和老鼠英文版](https://movie.douban.com/subject/35558910/)
 * 女孩四部曲（Snow-white, Cinderella, The little mermaid, Thumblina）
 * [Journey to the West](https://movie.douban.com/subject/35322194/)
