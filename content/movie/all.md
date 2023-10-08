@@ -16,37 +16,37 @@ tags: [
 
 ### 动物
 
-* [虎兄虎弟](https://movie.douban.com/subject/1309135/)
+* [虎兄虎弟](https://movie.douban.com/subject/1309135/): ★★★★★
 * [灵犬雪莉](https://movie.douban.com/subject/25745494/)
 * [多哥 Togo (2019)](https://movie.douban.com/subject/30271841/)
-* [雪地黄金犬.1991](https://movie.douban.com/subject/1769033/)
+* [雪地黄金犬.1991](https://movie.douban.com/subject/1769033/): ★★★★★
 * [蝴蝶.2002](https://movie.douban.com/subject/1292056/)
-* [忠犬八公的故事](https://movie.douban.com/subject/3011091/)
-* [南极大冒险](https://movie.douban.com/subject/1477448/)
-* [熊的故事](https://movie.douban.com/subject/1300334/)
+* [忠犬八公的故事](https://movie.douban.com/subject/3011091/): ★★★★★
+* [南极大冒险](https://movie.douban.com/subject/1477448/): ★★★★★
+* [熊的故事](https://movie.douban.com/subject/1300334/): ★★★★★
 * [伴你高飞](https://movie.douban.com/subject/1292642/)
-* [狐狸与孩子.2007](https://movie.douban.com/subject/2028659/)
+* [狐狸与孩子.2007](https://movie.douban.com/subject/2028659/): ★★★★★
 * [柴犬奇迹物语](https://movie.douban.com/subject/2357302/)
 
 ### 其它
 * [盗梦空间](https://movie.douban.com/subject/3541415/)
 * [弦动我心](https://movie.douban.com/subject/1299176/)
 * [垂直极限](https://movie.douban.com/subject/1301166/)
-* [Cube.心慌方](https://movie.douban.com/subject/1305903/)
-* [上帝也疯狂](https://movie.douban.com/subject/1297478/)
+* [Cube.心慌方](https://movie.douban.com/subject/1305903/): ★★★★★
+* [上帝也疯狂](https://movie.douban.com/subject/1297478/): ★★★★★
 * [三毛从军记](https://movie.douban.com/subject/2132220/)
 * [红柿子](https://movie.douban.com/subject/1303637/)
-* [海蒂和爷爷](https://movie.douban.com/subject/25958717/)
-* [音乐之声](https://movie.douban.com/subject/1294408/)
-* [地球上的星星.2007](https://movie.douban.com/subject/2363506/)
+* [海蒂和爷爷](https://movie.douban.com/subject/25958717/): ★★★★★
+* [音乐之声](https://movie.douban.com/subject/1294408/): ★★★★★
+* [地球上的星星.2007](https://movie.douban.com/subject/2363506/): ★★★★★
 * [哪吒之魔童降世](https://movie.douban.com/subject/26794435/)
 * [阿凡达](https://movie.douban.com/subject/1652587/)
 * [霍比特人](https://movie.douban.com/subject/1966182/)
 * [指环王](https://movie.douban.com/subject/1291571/)
-* [哈利波特](https://movie.douban.com/subject/1295038/)
-* [纳尼亚传奇](https://movie.douban.com/subject/1309052/)
+* [哈利波特](https://movie.douban.com/subject/1295038/): ★★★★★
+* [纳尼亚传奇](https://movie.douban.com/subject/1309052/): ★★★★★
 * [稻草人.1987](https://movie.douban.com/subject/1308607/)
-* [夏洛特的网](https://movie.douban.com/subject/1457218/)
+* [夏洛特的网](https://movie.douban.com/subject/1457218/): ★★★★★
 * [疯狂原始人](https://movie.douban.com/subject/1907966/)
 * [海洋之歌](https://movie.douban.com/subject/11584019/)
 

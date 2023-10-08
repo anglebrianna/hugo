@@ -17,13 +17,13 @@ tags: [
 
 ### 小学
 
-* [伊娃·伊博森：13号站台的秘密](https://book.douban.com/subject/35222092/)
-* [伊娃·伊博森：非常拯救计划](https://book.douban.com/subject/35201862/)
-* [伊娃·伊博森：女巫新娘](https://book.douban.com/subject/35218060/)
-* [伊娃·伊博森：非凡十二岁](https://book.douban.com/subject/30281931/)
+* [伊娃·伊博森：13号站台的秘密](https://book.douban.com/subject/35222092/): ★★★★★
+* [伊娃·伊博森：非常拯救计划](https://book.douban.com/subject/35201862/): ★★★★★
+* [伊娃·伊博森：女巫新娘](https://book.douban.com/subject/35218060/): ★★★★★
+* [伊娃·伊博森：非凡十二岁](https://book.douban.com/subject/30281931/): ★★★★★
 * [聊斋志异](https://book.douban.com/subject/36432848/)
-* [哈利波特](https://book.douban.com/subject/35599647/)
-* [纳尼亚传奇](https://book.douban.com/subject/25787839/)
+* [哈利波特](https://book.douban.com/subject/35599647/): ★★★★★
+* [纳尼亚传奇](https://book.douban.com/subject/25787839/): ★★★★★
 * [骑鹅旅行记](https://book.douban.com/subject/30774157/)
 * [汤姆·索亚历险记](https://book.douban.com/subject/2193881/)
 * [洋葱头历险记](https://book.douban.com/subject/30203120/)
@@ -34,24 +34,23 @@ tags: [
 * [造梦师丛书](https://book.douban.com/subject/30869280/)
 * [彩乌鸦系列](https://book.douban.com/series/989): 《妈妈走了》，《小女巫》，《弗朗兹的故事》，《文身狗》等 
 * [曹文轩文集典藏版](https://book.douban.com/subject/30643253/): 《草房子》，《根鸟》，《青铜葵花》等
-* [窗边的小豆豆](https://book.douban.com/subject/4758246/)
-* [夏山学校](https://book.douban.com/subject/4758246/)
+* [窗边的小豆豆](https://book.douban.com/subject/4758246/): ★★★★★
+* [夏山学校](https://book.douban.com/subject/4758246/): ★★★★★
 * [绿野仙踪](https://book.douban.com/subject/30167142/)
-* [夏洛的网](https://book.douban.com/subject/1036274/)
+* [夏洛的网](https://book.douban.com/subject/1036274/): ★★★★★
 * [没头脑和不高兴](https://book.douban.com/subject/10464301/)
-* [爱德华的奇妙之旅](https://book.douban.com/subject/26927781/)
 * [罗尔德·达尔作品典藏](https://book.douban.com/series/1629): 《了不起的狐狸爸爸》，《查理与巧克力工厂》，《小乔治的神奇魔药》等
 * [冰雪奇缘注音故事书系列](https://book.douban.com/subject/34860133/)
 * [国际大奖小说·注音版](https://book.douban.com/series/36066): 《爱德华的奇妙之旅》，《波普先生的企鹅》，《魔镜》，《兔子坡》等
 * [胖胖龙上天入地记](https://book.douban.com/subject/1486250/)
 * [男生贾里 女生贾梅](https://book.douban.com/subject/1064862/)
 * [郑渊洁经典童话注音版](https://book.douban.com/subject/30702887/): 《皮皮鲁外传》，《鲁西西外传》，《舒克贝塔历险记》，《魔方大厦》等
-* [淘气包马小跳系列（杨红樱）](https://book.douban.com/subject/4860554/)
+* [淘气包马小跳系列（杨红樱）](https://book.douban.com/subject/4860554/): ★★★★★
 * [杨红樱画本·科学童话系列](https://book.douban.com/subject/5907238/)
 * [胡小闹日记](https://book.douban.com/subject/30371982/)
 * [我和小姐姐克拉拉(共3册)](https://book.douban.com/subject/26843811/)
 * [法布尔昆虫记](https://book.douban.com/subject/1447704/)
-* [杨红樱童话注音本系列书全套10册](https://book.douban.com/subject/30156753/)：《乖狐狸》，《小人精的故事》等
+* [杨红樱童话注音本系列书全套10册](https://book.douban.com/subject/30156753/): ★★★★★，《乖狐狸》，《小人精的故事》等
 * [小猪唏哩呼噜](https://book.douban.com/subject/1222704/)
 
 ### 学龄前-中文
@@ -63,17 +62,17 @@ tags: [
 * [美猴王系列丛书](https://book.douban.com/subject/35701641/)
 * [地面地下](https://book.douban.com/subject/26868556/)
 * [不可不知的科学](https://book.douban.com/subject/27084480/)
-* [不可思议的旅程三部曲](https://book.douban.com/series/35186)
-* [龙猫](https://book.douban.com/subject/25972845/)
+* [不可思议的旅程三部曲](https://book.douban.com/series/35186): ★★★★★
+* [龙猫](https://book.douban.com/subject/25972845/): ★★★★★，同名电影也很喜欢
 * [汽车小百科](https://book.douban.com/subject/35451564/)
 * [我的第一本美国国家地理百科系列](https://book.douban.com/series/11171)
-* [小兔汤姆旅行版](https://book.douban.com/subject/26866198/)
-* [不一样的卡梅拉 珍藏版Ⅰ/珍藏版ⅠⅠ](https://book.douban.com/subject/4077607/)
+* [小兔汤姆旅行版](https://book.douban.com/subject/26866198/): ★★★★★
+* [不一样的卡梅拉 珍藏版Ⅰ/珍藏版ⅠⅠ](https://book.douban.com/subject/4077607/): ★★★★★
 * [三毛流浪记（彩图注音读物）](https://book.douban.com/subject/30762121/)
 * [《父与子》全集](https://book.douban.com/subject/1427538/)
 * [丁丁历险记（共22本）](https://book.douban.com/subject/1540211/)
 * [青蛙弗洛格的成长故事](https://book.douban.com/subject/4943558/)
-* [鼹鼠的故事全套12册](https://book.douban.com/subject/11517151/)
+* [鼹鼠的故事全套12册](https://book.douban.com/subject/11517151/): ★★★★★
 * [宫西达也小卡车系列绘本](https://book.douban.com/subject/30189070/): 《小红和小黑》，《小红和小绿》等
 * [开车出发系列](https://book.douban.com/series/39247): 《下雨天去郊游》，《坐电车去旅行》等
 * [忙忙碌碌镇—斯凯瑞金色童书](https://book.douban.com/subject/2119272/)
@@ -82,11 +81,11 @@ tags: [
 * [幸运的蚯蚓爬爬—斯凯瑞金色童书](https://book.douban.com/subject/27186146/)
 * [倒霉的弗兰伯先生—斯凯瑞金色童书](https://book.douban.com/subject/27198220/)
 * [好忙好忙的小屁孩儿—斯凯瑞金色童书](https://book.douban.com/subject/27186138/)
-* [大卫不可以](https://book.douban.com/subject/2117871/)
-* [大卫惹麻烦](https://book.douban.com/subject/3621921/)
-* [大卫上学去](https://book.douban.com/subject/3283582/)
-* [我喜欢橡子](https://book.douban.com/subject/26947312/)
-* [我们的身体](https://book.douban.com/subject/10831090/)
+* [大卫不可以](https://book.douban.com/subject/2117871/): ★★★★★
+* [大卫惹麻烦](https://book.douban.com/subject/3621921/): ★★★★★
+* [大卫上学去](https://book.douban.com/subject/3283582/): ★★★★★
+* [我喜欢橡子](https://book.douban.com/subject/26947312/): ★★★★★
+* [我们的身体](https://book.douban.com/subject/10831090/): ★★★★★
 * [是谁嗯嗯在我的头上](https://book.douban.com/subject/2120339/)
 * [鳄鱼怕怕牙医怕怕](https://book.douban.com/subject/1448645/)
 * [和甘伯伯去游河](https://book.douban.com/subject/3224618/)
