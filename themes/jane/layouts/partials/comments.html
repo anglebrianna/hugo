@@ -10,6 +10,11 @@
     {{ partial "comments/giscus.html" . }}
   {{ end }}
 
+  <!-- cusdis -->
+  {{ if .Site.Params.cusdis.enable }}
+    {{ partial "comments/cusdis.html" . }}
+  {{ end }}
+
   <!-- utteranc -->
   {{ if .Site.Params.utteranc.enable }}
     {{ partial "comments/utteranc.html" . }}

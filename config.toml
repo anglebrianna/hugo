@@ -118,8 +118,11 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   [params.counter.busuanzi]  # a Chinese visitor counter  # 不蒜子计数器
     enable = false
 
-  [params.giscus]         # giscus is a comment system based on GitHub Discussions. see https://giscus.app
+  [params.cusdis]         # cusdis is a comment system. see https://cusdis.com/
     enable = true
+
+  [params.giscus]         # giscus is a comment system based on GitHub Discussions. see https://giscus.app
+    enable = false
     repo = "luozhaohui/luozhaohui.github.io"
     repoId = "MDEwOlJlcG9zaXRvcnk4Njc3MzkxNA=="
     category = "Announcements"
