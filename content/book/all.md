@@ -112,17 +112,17 @@ tags: [
 
 * [Harry Potter](https://book.douban.com/subject/1949400/)
 * [The Magic School Bus Chapter Book](https://book.douban.com/subject/2071238/): 丛书，Discovery Set 1, Discovery Set 2
-* [Magic Tree House Series](https://book.douban.com/subject/19338977/)
-* [Merlin Missions Series](https://book.douban.com/subject/2712904/)
+* [Magic Tree House Series](https://book.douban.com/subject/19338977/): ★★★★★
+* [Merlin Missions Series](https://book.douban.com/subject/2712904/): ★★★★★
 
 ### 桥梁书
 
 * [神奇校车（点读版）:Magic School Bus Science Readers Box](https://book.douban.com/subject/35133924/)
-* [彩虹兔儿童英语分级故事屋](https://book.douban.com/subject/34988318/)
+* [彩虹兔儿童英语分级故事屋](https://book.douban.com/subject/34988318/): ★★★★★
 * [Read it Yourself 丛书](https://book.douban.com/subject/3429700/)
 * [Science Vocabulary Readers Set](https://book.douban.com/subject/2739492/)
-* [Oxford Read and Discover 丛书](https://book.douban.com/subject/24750188/)
-* [Oxford Read and Imagine 丛书](https://book.douban.com/subject/33317095/)
+* [Oxford Read and Discover 丛书](https://book.douban.com/subject/24750188/): ★★★★★
+* [Oxford Read and Imagine 丛书](https://book.douban.com/subject/33317095/): ★★★★★
 * [Oxford Reading Tree 牛津阅读树学校版（点读）](https://book.douban.com/subject/35140530/): Read with Biff, Chip and Kipper
 * [RAZ - 分级阅读](https://book.douban.com/subject/30738542/)
 * [Sight Word Kids 宝贝学常见词(套装共10册)](https://book.douban.com/subject/26974322/)
