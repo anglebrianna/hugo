@@ -39,7 +39,7 @@ tags: [
 * [绿野仙踪](https://book.douban.com/subject/30167142/)
 * [夏洛的网](https://book.douban.com/subject/1036274/): ★★★★★，有同名电影
 * [没头脑和不高兴](https://book.douban.com/subject/10464301/)
-* [罗尔德·达尔作品典藏](https://book.douban.com/series/1629): 《了不起的狐狸爸爸》，《查理与巧克力工厂》，《小乔治的神奇魔药》等，部分有同名电影
+* [罗尔德·达尔作品典藏](https://book.douban.com/series/1629): ★★★★★， 《了不起的狐狸爸爸》，《查理与巧克力工厂》，《小乔治的神奇魔药》等，部分有同名电影
 * [冰雪奇缘注音故事书系列](https://book.douban.com/subject/34860133/)
 * [国际大奖小说·注音版](https://book.douban.com/series/36066): 《爱德华的奇妙之旅》，《波普先生的企鹅》，《魔镜》，《兔子坡》等
 * [胖胖龙上天入地记](https://book.douban.com/subject/1486250/)
