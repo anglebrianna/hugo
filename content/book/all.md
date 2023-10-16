@@ -30,16 +30,16 @@ tags: [
 * [长袜子皮皮](https://book.douban.com/subject/4124283/)
 * [绿山墙的安妮](https://book.douban.com/subject/1064841/)
 * [格林童话全集](https://book.douban.com/subject/1043008/)
-* [安徒生童话故事集](https://book.douban.com/subject/1046209/)
+* [安徒生童话故事集](https://book.douban.com/subject/1046209/): ★★★★★
 * [造梦师丛书](https://book.douban.com/subject/30869280/)
 * [彩乌鸦系列](https://book.douban.com/series/989): 《妈妈走了》，《小女巫》，《弗朗兹的故事》，《文身狗》等 
 * [曹文轩文集典藏版](https://book.douban.com/subject/30643253/): 《草房子》，《根鸟》，《青铜葵花》等
 * [窗边的小豆豆](https://book.douban.com/subject/4758246/): ★★★★★
 * [夏山学校](https://book.douban.com/subject/4758246/): ★★★★★
 * [绿野仙踪](https://book.douban.com/subject/30167142/)
-* [夏洛的网](https://book.douban.com/subject/1036274/): ★★★★★
+* [夏洛的网](https://book.douban.com/subject/1036274/): ★★★★★，有同名电影
 * [没头脑和不高兴](https://book.douban.com/subject/10464301/)
-* [罗尔德·达尔作品典藏](https://book.douban.com/series/1629): 《了不起的狐狸爸爸》，《查理与巧克力工厂》，《小乔治的神奇魔药》等
+* [罗尔德·达尔作品典藏](https://book.douban.com/series/1629): 《了不起的狐狸爸爸》，《查理与巧克力工厂》，《小乔治的神奇魔药》等，部分有同名电影
 * [冰雪奇缘注音故事书系列](https://book.douban.com/subject/34860133/)
 * [国际大奖小说·注音版](https://book.douban.com/series/36066): 《爱德华的奇妙之旅》，《波普先生的企鹅》，《魔镜》，《兔子坡》等
 * [胖胖龙上天入地记](https://book.douban.com/subject/1486250/)
