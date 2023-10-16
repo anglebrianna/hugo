@@ -57,6 +57,8 @@ tags: [
 
 ## 动画片
 
+* [大闹天宫 (1961)](https://movie.douban.com/subject/1418019/)
+* [哪吒闹海 (1979)](https://movie.douban.com/subject/1307315/)：上海美影动画全集，有对应的绘本[《上海美影国漫经典口袋书》](https://book.douban.com/subject/33444264/)
 * [疯狂原始人](https://movie.douban.com/subject/1907966/)
 * [花木兰](https://movie.douban.com/subject/1294833/)
 * [蝴蝶梦：梁山伯与祝英台](https://movie.douban.com/subject/2978752/)

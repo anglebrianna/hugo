@@ -68,6 +68,7 @@ tags: [
 * [我的第一本美国国家地理百科系列](https://book.douban.com/series/11171)
 * [小兔汤姆旅行版](https://book.douban.com/subject/26866198/): ★★★★★
 * [不一样的卡梅拉 珍藏版Ⅰ/珍藏版ⅠⅠ](https://book.douban.com/subject/4077607/): ★★★★★
+* [《上海美影国漫经典口袋书》](https://book.douban.com/subject/33444264/)
 * [三毛流浪记（彩图注音读物）](https://book.douban.com/subject/30762121/)
 * [《父与子》全集](https://book.douban.com/subject/1427538/)
 * [丁丁历险记（共22本）](https://book.douban.com/subject/1540211/)
