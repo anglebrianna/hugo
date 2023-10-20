@@ -33,9 +33,10 @@ tags: [
 * [哈利波特](https://movie.douban.com/subject/1295038/): ★★★★★
 * [纳尼亚传奇](https://movie.douban.com/subject/1309052/): ★★★★★
 * [阿凡达](https://movie.douban.com/subject/1652587/)
-* [霍比特人](https://movie.douban.com/subject/1966182/)
-* [指环王](https://movie.douban.com/subject/1291571/)
+* [霍比特人三部曲](https://movie.douban.com/subject/1966182/)
+* [指环王三部曲](https://movie.douban.com/subject/1291571/)
 * [哪吒之魔童降世](https://movie.douban.com/subject/26794435/)
+* [封神第一部：朝歌风云 (2023)](https://movie.douban.com/subject/10604086/)
 
 ### 其它
 
