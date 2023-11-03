@@ -17,6 +17,8 @@ tags: [
 
 ### 小学
 
+* [半小时漫画中国史](https://book.douban.com/subject/27003014/)
+* [时代广场的蟋蟀](https://book.douban.com/subject/26994228/)
 * [伊娃·伊博森：13号站台的秘密](https://book.douban.com/subject/35222092/): ★★★★★
 * [伊娃·伊博森：非常拯救计划](https://book.douban.com/subject/35201862/): ★★★★★
 * [伊娃·伊博森：女巫新娘](https://book.douban.com/subject/35218060/): ★★★★★
