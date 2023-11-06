@@ -101,11 +101,13 @@ tags: [
 
 ### 地理自然
 
+* [史前星球.第一季](https://movie.douban.com/subject/34603375/)
+* [史前星球.第二季](https://movie.douban.com/subject/36292415/)
 * [人体内的旅行](https://movie.douban.com/subject/3442857/)
 * [人类-体内的世界](https://movie.douban.com/subject/35465110/)
 * [Serengeti](https://movie.douban.com/subject/34454232/)
 * [荒野间谍](https://movie.douban.com/subject/26959212/): ★★★★★
-* [鲨鱼 BBC-2015](https://movie.douban.com/subject/26386580/)
+* [鲨鱼.BBC-2015](https://movie.douban.com/subject/26386580/): ★★★★★
 * [神话的森林](https://movie.douban.com/subject/6412608/)
 * [动物本色](https://movie.douban.com/subject/35651101/)
 * [生命之色](https://movie.douban.com/subject/34851325/)
@@ -116,7 +118,7 @@ tags: [
 * [我们的星球](https://movie.douban.com/subject/30374707/)
 * [人类星球](https://movie.douban.com/subject/5950117/)
 * [完美星球](https://movie.douban.com/subject/33387354/)
-* [蓝色星球](https://movie.douban.com/subject/1325007/)
+* [蓝色星球](https://movie.douban.com/subject/1325007/): ★★★★★
 * [地球脉动](https://movie.douban.com/subject/1871906/)
 * [非洲](https://movie.douban.com/subject/20488575/)
 * [加拉帕戈斯群岛](https://movie.douban.com/subject/2147083/)
