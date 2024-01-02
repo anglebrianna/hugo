@@ -17,6 +17,7 @@ tags: [
 
 ### 小学
 
+* [可怕的科学](https://book.douban.com/subject/10734899/)
 * [随风而来的玛丽阿姨](https://book.douban.com/subject/1433572/)
 * [无人生还](https://book.douban.com/subject/35100861/): ★★★★★，有同名电影
 * [半小时漫画中国史](https://book.douban.com/subject/27003014/)

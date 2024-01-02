@@ -40,6 +40,7 @@ tags: [
 
 ### 其它
 
+* [疯狂的石头](https://movie.douban.com/subject/1862151/)
 * [卧虎藏龙](https://movie.douban.com/subject/1301168/)
 * [无人生还](https://movie.douban.com/subject/25839052/)
 * [坠入](https://movie.douban.com/subject/1890572/)
