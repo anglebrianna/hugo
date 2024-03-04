@@ -17,8 +17,11 @@ tags: [
 
 ### 小学
 
-* [可怕的科学](https://book.douban.com/subject/10734899/)
-* [随风而来的玛丽阿姨](https://book.douban.com/subject/1433572/)
+* [DK 儿童图解百科全书·化学元素](https://book.douban.com/subject/34810477/)
+* [DK 万物运转的秘密](https://book.douban.com/subject/34874257/)
+* [可怕的科学系列](https://book.douban.com/subject/10734899/)
+* [手中都是星星](https://book.douban.com/subject/26706970/): ★★★★★
+* [随风而来的玛丽阿姨](https://book.douban.com/subject/1433572/): ★★★★★
 * [无人生还](https://book.douban.com/subject/35100861/): ★★★★★，有同名电影
 * [半小时漫画中国史](https://book.douban.com/subject/27003014/)
 * [时代广场的蟋蟀](https://book.douban.com/subject/26994228/)
@@ -123,6 +126,7 @@ tags: [
 * [The Magic School Bus Chapter Book](https://book.douban.com/subject/2071238/): 丛书，Discovery Set 1, Discovery Set 2
 * [Magic Tree House Series](https://book.douban.com/subject/19338977/): ★★★★★
 * [Merlin Missions Series](https://book.douban.com/subject/2712904/): ★★★★★
+* [Magic Tree House Fact Trackers](https://book.douban.com/subject/35587176/)
 
 ### 桥梁书
 
