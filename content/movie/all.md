@@ -30,6 +30,7 @@ tags: [
 
 ### 奇幻
 
+* [小王子](https://movie.douban.com/subject/20645098/)
 * [哈利波特](https://movie.douban.com/subject/1295038/): ★★★★★
 * [纳尼亚传奇](https://movie.douban.com/subject/1309052/): ★★★★★
 * [阿凡达](https://movie.douban.com/subject/1652587/)
@@ -40,7 +41,10 @@ tags: [
 
 ### 其它
 
+* [两杆大烟枪](https://movie.douban.com/subject/1293350/)
+* [天下无贼](https://movie.douban.com/subject/1291550/)
 * [疯狂的石头](https://movie.douban.com/subject/1862151/)
+* [长安三万里 (2023)](https://movie.douban.com/subject/36035676/)
 * [卧虎藏龙](https://movie.douban.com/subject/1301168/)
 * [无人生还](https://movie.douban.com/subject/25839052/)
 * [坠入](https://movie.douban.com/subject/1890572/)
@@ -63,8 +67,10 @@ tags: [
 
 ## 动画片
 
+* [你看起来很好吃](https://movie.douban.com/subject/4848115/)
 * [大闹天宫 (1961)](https://movie.douban.com/subject/1418019/)
 * [哪吒闹海 (1979)](https://movie.douban.com/subject/1307315/)：上海美影动画全集，有对应的绘本[《上海美影国漫经典口袋书》](https://book.douban.com/subject/33444264/)
+* [疯狂原始人2](https://movie.douban.com/subject/24298954/)
 * [疯狂原始人](https://movie.douban.com/subject/1907966/)
 * [花木兰](https://movie.douban.com/subject/1294833/)
 * [蝴蝶梦：梁山伯与祝英台](https://movie.douban.com/subject/2978752/)
