@@ -41,11 +41,13 @@ tags: [
 
 ### 其它
 
+* [致命魔术](https://movie.douban.com/subject/1780330/)
 * [两杆大烟枪](https://movie.douban.com/subject/1293350/)
 * [天下无贼](https://movie.douban.com/subject/1291550/)
 * [疯狂的石头](https://movie.douban.com/subject/1862151/)
 * [长安三万里 (2023)](https://movie.douban.com/subject/36035676/)
 * [卧虎藏龙](https://movie.douban.com/subject/1301168/)
+* [新龙门客栈](https://movie.douban.com/subject/1292287/)
 * [无人生还](https://movie.douban.com/subject/25839052/)
 * [坠入](https://movie.douban.com/subject/1890572/)
 * [至爱梵高·星空之谜](https://movie.douban.com/subject/25837262/)
