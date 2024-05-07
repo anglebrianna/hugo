@@ -39,6 +39,16 @@ tags: [
 * [哪吒之魔童降世](https://movie.douban.com/subject/26794435/)
 * [封神第一部：朝歌风云 (2023)](https://movie.douban.com/subject/10604086/)
 
+### 战争
+
+* [三毛从军记](https://movie.douban.com/subject/2132220/)
+* [八佰](https://movie.douban.com/subject/26754233/)
+* [稻草人.1987](https://movie.douban.com/subject/1308607/)
+* [这里的黎明静悄悄](https://movie.douban.com/subject/26384515/)
+* [桂河大桥](https://movie.douban.com/subject/1294958/)
+* [虎！虎！虎！](https://movie.douban.com/subject/1294562/)
+* [中途岛](https://movie.douban.com/subject/1292600/)
+
 ### 其它
 
 * [致命魔术](https://movie.douban.com/subject/1780330/)
@@ -56,9 +66,6 @@ tags: [
 * [垂直极限](https://movie.douban.com/subject/1301166/)
 * [Cube.心慌方](https://movie.douban.com/subject/1305903/): ★★★★★
 * [上帝也疯狂](https://movie.douban.com/subject/1297478/): ★★★★★
-* [三毛从军记](https://movie.douban.com/subject/2132220/)
-* [这里的黎明静悄悄](https://movie.douban.com/subject/26384515/)
-* [稻草人.1987](https://movie.douban.com/subject/1308607/)
 * [红柿子](https://movie.douban.com/subject/1303637/)
 * [伴我同行.1986](https://movie.douban.com/subject/1292925/)
 * [海蒂和爷爷](https://movie.douban.com/subject/25958717/): ★★★★★
