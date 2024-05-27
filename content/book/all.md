@@ -121,6 +121,12 @@ tags: [
 
 ## 英文
 
+### 其它
+
+* [Reading Explorer 3](https://book.douban.com/subject/5449933/)
+* [Reading Explorer 2](https://book.douban.com/subject/4555576/)
+* [Reading Explorer 1](https://book.douban.com/subject/5410863/)
+
 ### 章节书
 
 * [Harry Potter](https://book.douban.com/subject/1949400/)

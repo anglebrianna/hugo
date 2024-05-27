@@ -51,6 +51,7 @@ tags: [
 
 ### 其它
 
+* [自由作家](https://movie.douban.com/subject/1945253/)
 * [致命魔术](https://movie.douban.com/subject/1780330/)
 * [两杆大烟枪](https://movie.douban.com/subject/1293350/)
 * [天下无贼](https://movie.douban.com/subject/1291550/)
