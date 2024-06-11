@@ -17,6 +17,7 @@ tags: [
 
 ### 小学
 
+* [献给阿尔吉侬的花束](https://book.douban.com/subject/26362836/)
 * [DK 儿童图解百科全书·化学元素](https://book.douban.com/subject/34810477/)
 * [DK 万物运转的秘密](https://book.douban.com/subject/34874257/)
 * [可怕的科学系列](https://book.douban.com/subject/10734899/)
