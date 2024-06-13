@@ -17,6 +17,10 @@ tags: [
 
 ### 小学
 
+* [我亲爱的甜橙树](https://book.douban.com/subject/4826530/)
+* [黑珍珠](https://book.douban.com/subject/6715472/)
+* [洞](https://book.douban.com/subject/25886974/)
+* [魔法师的接班人](https://book.douban.com/subject/34988849/)
 * [献给阿尔吉侬的花束](https://book.douban.com/subject/26362836/)
 * [DK 儿童图解百科全书·化学元素](https://book.douban.com/subject/34810477/)
 * [DK 万物运转的秘密](https://book.douban.com/subject/34874257/)
