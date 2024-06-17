@@ -78,6 +78,7 @@ tags: [
 
 ## 动画片
 
+* [海洋之歌](https://movie.douban.com/subject/11584019/)
 * [你看起来很好吃](https://movie.douban.com/subject/4848115/)
 * [大闹天宫 (1961)](https://movie.douban.com/subject/1418019/)
 * [哪吒闹海 (1979)](https://movie.douban.com/subject/1307315/)：上海美影动画全集，有对应的绘本[《上海美影国漫经典口袋书》](https://book.douban.com/subject/33444264/)
