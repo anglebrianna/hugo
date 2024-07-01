@@ -51,6 +51,7 @@ tags: [
 
 ### 其它
 
+* [闪灵](https://movie.douban.com/subject/1292225/)
 * [星际穿越](https://m.douban.com/movie/subject/1889243/)
 * [寻找薇薇安·迈尔](https://movie.douban.com/subject/21356379/)
 * [自由作家](https://movie.douban.com/subject/1945253/)
@@ -58,12 +59,12 @@ tags: [
 * [两杆大烟枪](https://movie.douban.com/subject/1293350/)
 * [天下无贼](https://movie.douban.com/subject/1291550/)
 * [疯狂的石头](https://movie.douban.com/subject/1862151/)
-* [长安三万里 (2023)](https://movie.douban.com/subject/36035676/)
+* [长安三万里 (2023)](https://movie.douban.com/subject/36035676/): ★★★★★
 * [卧虎藏龙](https://movie.douban.com/subject/1301168/)
 * [新龙门客栈](https://movie.douban.com/subject/1292287/)
-* [无人生还](https://movie.douban.com/subject/25839052/)
+* [无人生还](https://movie.douban.com/subject/25839052/): ★★★★★
 * [坠入](https://movie.douban.com/subject/1890572/)
-* [至爱梵高·星空之谜](https://movie.douban.com/subject/25837262/)
+* [至爱梵高·星空之谜](https://movie.douban.com/subject/25837262/): ★★★★★
 * [盗梦空间](https://movie.douban.com/subject/3541415/)
 * [弦动我心](https://movie.douban.com/subject/1299176/)
 * [垂直极限](https://movie.douban.com/subject/1301166/)

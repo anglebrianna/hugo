@@ -17,11 +17,12 @@ tags: [
 
 ### 小学
 
+* [希斯汀游戏](https://book.douban.com/subject/35995812/)
 * [我亲爱的甜橙树](https://book.douban.com/subject/4826530/)
 * [黑珍珠](https://book.douban.com/subject/6715472/)
 * [洞](https://book.douban.com/subject/25886974/)
 * [魔法师的接班人](https://book.douban.com/subject/34988849/)
-* [献给阿尔吉侬的花束](https://book.douban.com/subject/26362836/)
+* [献给阿尔吉侬的花束](https://book.douban.com/subject/26362836/): ★★★★★
 * [DK 儿童图解百科全书·化学元素](https://book.douban.com/subject/34810477/)
 * [DK 万物运转的秘密](https://book.douban.com/subject/34874257/)
 * [可怕的科学系列](https://book.douban.com/subject/10734899/)
@@ -52,7 +53,7 @@ tags: [
 * [曹文轩文集典藏版](https://book.douban.com/subject/30643253/): 《草房子》，《根鸟》，《青铜葵花》等
 * [窗边的小豆豆](https://book.douban.com/subject/4758246/): ★★★★★
 * [夏山学校](https://book.douban.com/subject/4758246/): ★★★★★
-* [绿野仙踪](https://book.douban.com/subject/30167142/)
+* [绿野仙踪](https://book.douban.com/subject/30167142/): ★★★★★
 * [夏洛的网](https://book.douban.com/subject/1036274/): ★★★★★，有同名电影
 * [没头脑和不高兴](https://book.douban.com/subject/10464301/)
 * [罗尔德·达尔作品典藏](https://book.douban.com/series/1629): ★★★★★， 《了不起的狐狸爸爸》，《查理与巧克力工厂》，《小乔治的神奇魔药》等，部分有同名电影
