@@ -22,12 +22,12 @@ tags: [
 * [黑珍珠](https://book.douban.com/subject/6715472/)
 * [洞](https://book.douban.com/subject/25886974/)
 * [魔法师的接班人](https://book.douban.com/subject/34988849/)
-* [献给阿尔吉侬的花束](https://book.douban.com/subject/26362836/): ★★★★★
+* [献给阿尔吉侬的花束](https://book.douban.com/subject/26362836/): ★★★★★，有同名电影
 * [DK 儿童图解百科全书·化学元素](https://book.douban.com/subject/34810477/)
 * [DK 万物运转的秘密](https://book.douban.com/subject/34874257/)
 * [可怕的科学系列](https://book.douban.com/subject/10734899/)
 * [手中都是星星](https://book.douban.com/subject/26706970/): ★★★★★
-* [随风而来的玛丽阿姨](https://book.douban.com/subject/1433572/): ★★★★★
+* [随风而来的玛丽阿姨](https://book.douban.com/subject/1433572/): ★★★★★，系列：《随风而来的玛丽阿姨》、《玛丽阿姨和隔壁房子》《玛丽阿姨回来了》、《玛丽阿姨打开虚幻的门》、《玛丽阿姨的神怪故事》、《玛丽阿姨在樱桃树胡同》。
 * [无人生还](https://book.douban.com/subject/35100861/): ★★★★★，有同名电影
 * [半小时漫画中国史](https://book.douban.com/subject/27003014/)
 * [时代广场的蟋蟀](https://book.douban.com/subject/26994228/)
@@ -49,19 +49,19 @@ tags: [
 * [格林童话全集](https://book.douban.com/subject/1043008/)
 * [安徒生童话故事集](https://book.douban.com/subject/1046209/): ★★★★★
 * [造梦师丛书](https://book.douban.com/subject/30869280/)
-* [彩乌鸦系列](https://book.douban.com/series/989): 《妈妈走了》，《小女巫》，《弗朗兹的故事》，《文身狗》等 
-* [曹文轩文集典藏版](https://book.douban.com/subject/30643253/): 《草房子》，《根鸟》，《青铜葵花》等
+* [彩乌鸦系列](https://book.douban.com/series/989): 《妈妈走了》、《小女巫》、《弗朗兹的故事》、《文身狗》等 
+* [曹文轩文集典藏版](https://book.douban.com/subject/30643253/): 《草房子》、《根鸟》、《青铜葵花》等
 * [窗边的小豆豆](https://book.douban.com/subject/4758246/): ★★★★★
 * [夏山学校](https://book.douban.com/subject/4758246/): ★★★★★
 * [绿野仙踪](https://book.douban.com/subject/30167142/): ★★★★★
 * [夏洛的网](https://book.douban.com/subject/1036274/): ★★★★★，有同名电影
 * [没头脑和不高兴](https://book.douban.com/subject/10464301/)
-* [罗尔德·达尔作品典藏](https://book.douban.com/series/1629): ★★★★★， 《了不起的狐狸爸爸》，《查理与巧克力工厂》，《小乔治的神奇魔药》等，部分有同名电影
+* [罗尔德·达尔作品典藏](https://book.douban.com/series/1629): ★★★★★，《了不起的狐狸爸爸》、《查理与巧克力工厂》、《小乔治的神奇魔药》等，部分有同名电影
 * [冰雪奇缘注音故事书系列](https://book.douban.com/subject/34860133/)
-* [国际大奖小说·注音版](https://book.douban.com/series/36066): 《爱德华的奇妙之旅》，《波普先生的企鹅》，《魔镜》，《兔子坡》等
+* [国际大奖小说·注音版](https://book.douban.com/series/36066): 《爱德华的奇妙之旅》、《波普先生的企鹅》、《魔镜》、《兔子坡》等
 * [胖胖龙上天入地记](https://book.douban.com/subject/1486250/)
 * [男生贾里 女生贾梅](https://book.douban.com/subject/1064862/)
-* [郑渊洁经典童话注音版](https://book.douban.com/subject/30702887/): 《皮皮鲁外传》，《鲁西西外传》，《舒克贝塔历险记》，《魔方大厦》等
+* [郑渊洁经典童话注音版](https://book.douban.com/subject/30702887/): 《皮皮鲁外传》、《鲁西西外传》、《舒克贝塔历险记》、《魔方大厦》等
 * [淘气包马小跳系列（杨红樱）](https://book.douban.com/subject/4860554/): ★★★★★
 * [杨红樱画本·科学童话系列](https://book.douban.com/subject/5907238/)
 * [胡小闹日记](https://book.douban.com/subject/30371982/)
@@ -92,8 +92,8 @@ tags: [
 * [丁丁历险记（共22本）](https://book.douban.com/subject/1540211/)
 * [青蛙弗洛格的成长故事](https://book.douban.com/subject/4943558/)
 * [鼹鼠的故事全套12册](https://book.douban.com/subject/11517151/): ★★★★★
-* [宫西达也小卡车系列绘本](https://book.douban.com/subject/30189070/): 《小红和小黑》，《小红和小绿》等
-* [开车出发系列](https://book.douban.com/series/39247): 《下雨天去郊游》，《坐电车去旅行》等
+* [宫西达也小卡车系列绘本](https://book.douban.com/subject/30189070/): 《小红和小黑》、《小红和小绿》等
+* [开车出发系列](https://book.douban.com/series/39247): 《下雨天去郊游》、《坐电车去旅行》等
 * [忙忙碌碌镇—斯凯瑞金色童书](https://book.douban.com/subject/2119272/)
 * [迷迷糊糊的侦探—斯凯瑞金色童书](https://book.douban.com/subject/4091882/)
 * [轱辘轱辘转—斯凯瑞金色童书](https://book.douban.com/subject/2119381/)
@@ -136,7 +136,7 @@ tags: [
 ### 章节书
 
 * [Harry Potter](https://book.douban.com/subject/1949400/)
-* [The Magic School Bus Chapter Book](https://book.douban.com/subject/2071238/): 丛书，Discovery Set 1, Discovery Set 2
+* [The Magic School Bus Chapter Book](https://book.douban.com/subject/2071238/): 丛书，Discovery Set 1、Discovery Set 2
 * [Magic Tree House Series](https://book.douban.com/subject/19338977/): ★★★★★
 * [Merlin Missions Series](https://book.douban.com/subject/2712904/): ★★★★★
 * [Magic Tree House Fact Trackers](https://book.douban.com/subject/35587176/)

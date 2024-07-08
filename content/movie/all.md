@@ -51,7 +51,10 @@ tags: [
 
 ### 其它
 
-* [闪灵](https://movie.douban.com/subject/1292225/)
+* [浪潮](https://movie.douban.com/subject/2297265/)，2024-07-08
+* [肖申克的救赎](https://movie.douban.com/subject/1292052/)，2024-07-07
+* [献给阿尔吉侬的花束](https://movie.douban.com/subject/1304030/)，2024-06-30
+* [闪灵](https://movie.douban.com/subject/1292225/)，2024-06-29
 * [星际穿越](https://m.douban.com/movie/subject/1889243/)
 * [寻找薇薇安·迈尔](https://movie.douban.com/subject/21356379/)
 * [自由作家](https://movie.douban.com/subject/1945253/)
