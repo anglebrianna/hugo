@@ -51,6 +51,9 @@ tags: [
 
 ### 其它
 
+* [芙蓉镇](https://movie.douban.com/subject/1297880/)，2024-07-28
+* [牧马人](https://movie.douban.com/subject/1308038/)，2024-07-28
+* [飞越疯人院](https://movie.douban.com/subject/1292224/)，2024-07-27
 * [浪潮](https://movie.douban.com/subject/2297265/)，2024-07-08
 * [肖申克的救赎](https://movie.douban.com/subject/1292052/)，2024-07-07
 * [献给阿尔吉侬的花束](https://movie.douban.com/subject/1304030/)，2024-06-30
