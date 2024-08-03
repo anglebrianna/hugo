@@ -17,6 +17,9 @@ tags: [
 
 ### 小学
 
+* [我有友情要出租](https://book.douban.com/subject/1781014/)
+* [风与树的歌](https://book.douban.com/subject/34970676/)
+* [宝葫芦的秘密](https://book.douban.com/subject/27029990/)
 * [希斯汀游戏](https://book.douban.com/subject/35995812/)
 * [我亲爱的甜橙树](https://book.douban.com/subject/4826530/)
 * [黑珍珠](https://book.douban.com/subject/6715472/)

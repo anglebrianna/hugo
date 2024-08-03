@@ -55,6 +55,7 @@ tags: [
 
 ### 其它
 
+* [魔鬼小提琴家帕格尼尼](https://movie.douban.com/subject/11528266/)，2024-08-02
 * [芙蓉镇](https://movie.douban.com/subject/1297880/)，2024-07-28
 * [牧马人](https://movie.douban.com/subject/1308038/)，2024-07-28
 * [飞越疯人院](https://movie.douban.com/subject/1292224/)，2024-07-27
