@@ -55,6 +55,7 @@ tags: [
 
 ### 其它
 
+* [活着](https://movie.douban.com/subject/1292365/)，2024-08-11，冲击性与人生哲学的思考性都很强，B站由非常精彩的解析
 * [魔鬼小提琴家帕格尼尼](https://movie.douban.com/subject/11528266/)，2024-08-02
 * [芙蓉镇](https://movie.douban.com/subject/1297880/)，2024-07-28
 * [牧马人](https://movie.douban.com/subject/1308038/)，2024-07-28
@@ -63,6 +64,7 @@ tags: [
 * [肖申克的救赎](https://movie.douban.com/subject/1292052/)，2024-07-07
 * [献给阿尔吉侬的花束](https://movie.douban.com/subject/1304030/)，2024-06-30
 * [闪灵](https://movie.douban.com/subject/1292225/)，2024-06-29
+* [年会不能停](https://movie.douban.com/subject/35725869/)
 * [星际穿越](https://m.douban.com/movie/subject/1889243/)
 * [寻找薇薇安·迈尔](https://movie.douban.com/subject/21356379/)
 * [自由作家](https://movie.douban.com/subject/1945253/)
@@ -132,6 +134,7 @@ tags: [
 
 ### 宇宙
 
+* [宇宙时空之旅](https://movie.douban.com/subject/24698699/)： ★★★★★
 * [恒星七纪](https://movie.douban.com/subject/20370177/)
 * [太阳系的奇迹](https://movie.douban.com/subject/4606935/)
 * [宇宙](https://movie.douban.com/subject/35640001/)

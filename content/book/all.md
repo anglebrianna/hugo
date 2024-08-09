@@ -17,6 +17,7 @@ tags: [
 
 ### 小学
 
+* [平面国](https://book.douban.com/subject/35170896/)
 * [我有友情要出租](https://book.douban.com/subject/1781014/)
 * [风与树的歌](https://book.douban.com/subject/34970676/)
 * [宝葫芦的秘密](https://book.douban.com/subject/27029990/)
