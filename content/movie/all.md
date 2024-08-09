@@ -41,9 +41,11 @@ tags: [
 
 ### 战争
 
+* [硫磺岛的来信](https://movie.douban.com/subject/1917171/)
 * [三毛从军记](https://movie.douban.com/subject/2132220/)
 * [八佰](https://movie.douban.com/subject/26754233/)
 * [稻草人.1987](https://movie.douban.com/subject/1308607/)
+* [兵临城下](https://movie.douban.com/subject/1301726)
 * [这里的黎明静悄悄](https://movie.douban.com/subject/26384515/)
 * [桂河大桥](https://movie.douban.com/subject/1294958/)
 * [虎！虎！虎！](https://movie.douban.com/subject/1294562/)
