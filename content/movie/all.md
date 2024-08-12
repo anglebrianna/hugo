@@ -57,7 +57,8 @@ tags: [
 
 ### 其它
 
-* [活着](https://movie.douban.com/subject/1292365/)，2024-08-11，冲击性与人生哲学的思考性都很强，B站由非常精彩的解析
+* [霸王别姬](https://movie.douban.com/subject/1291546/)，2024-08-11
+* [大红灯笼高高挂](https://movie.douban.com/subject/1293323/)，2024-08-02，冲击性与人生哲学的思考性都很强，B站由非常精彩的解析
 * [魔鬼小提琴家帕格尼尼](https://movie.douban.com/subject/11528266/)，2024-08-02
 * [芙蓉镇](https://movie.douban.com/subject/1297880/)，2024-07-28
 * [牧马人](https://movie.douban.com/subject/1308038/)，2024-07-28
