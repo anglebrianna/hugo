@@ -130,6 +130,10 @@ tags: [
 
 ## 纪录片
 
+### 科普
+
+* [门捷列夫很忙](https://tv.cctv.com/2020/06/15/VIDAxDwwrYSGJUk01ntQbV0v200615.shtml)
+
 
 ### 人文
 
