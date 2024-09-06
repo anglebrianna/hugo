@@ -34,6 +34,8 @@ tags: [
 * [手中都是星星](https://book.douban.com/subject/26706970/): ★★★★★
 * [随风而来的玛丽阿姨](https://book.douban.com/subject/1433572/): ★★★★★，系列：《随风而来的玛丽阿姨》、《玛丽阿姨和隔壁房子》《玛丽阿姨回来了》、《玛丽阿姨打开虚幻的门》、《玛丽阿姨的神怪故事》、《玛丽阿姨在樱桃树胡同》。
 * [无人生还](https://book.douban.com/subject/35100861/): ★★★★★，有同名电影。阿加莎·克里斯蒂作品精选集：《ABC谋杀案》、《东方快车谋杀案》、《罗杰疑案》
+* [半小时漫画唐诗](https://book.douban.com/subject/33441524/)
+* [半小时漫画世界史](https://book.douban.com/subject/30191803/)
 * [半小时漫画中国史](https://book.douban.com/subject/27003014/)
 * [时代广场的蟋蟀](https://book.douban.com/subject/26994228/)
 * [伊娃·伊博森：狗和他的男孩](https://book.douban.com/subject/35202338/)
