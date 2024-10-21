@@ -17,6 +17,7 @@ tags: [
 
 ### 小学
 
+* [大师与玛格丽特](https://book.douban.com/subject/27069991/)
 * [永恒的终结](https://book.douban.com/subject/25829693/)
 * [平面国](https://book.douban.com/subject/35170896/)
 * [我有友情要出租](https://book.douban.com/subject/1781014/)
@@ -37,7 +38,9 @@ tags: [
 * [半小时漫画唐诗](https://book.douban.com/subject/33441524/)
 * [半小时漫画世界史](https://book.douban.com/subject/30191803/)
 * [半小时漫画中国史](https://book.douban.com/subject/27003014/)
+* [半小时漫画史记](https://book.douban.com/subject/36241140/)
 * [时代广场的蟋蟀](https://book.douban.com/subject/26994228/)
+* [伊娃·伊博森：蝴蝶天堂历险记](https://book.douban.com/subject/35222091/)
 * [伊娃·伊博森：狗和他的男孩](https://book.douban.com/subject/35202338/)
 * [伊娃·伊博森：艾兰岛的守护者](https://book.douban.com/subject/35147286/)
 * [伊娃·伊博森：海勒姆的困扰](https://m.douban.com/book/subject/27033875/)

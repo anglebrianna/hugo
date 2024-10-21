@@ -39,8 +39,14 @@ tags: [
 * [哪吒之魔童降世](https://movie.douban.com/subject/26794435/)
 * [封神第一部：朝歌风云 (2023)](https://movie.douban.com/subject/10604086/)
 
-### 战争
+### 历史
 
+* [霸王别姬](https://movie.douban.com/subject/1291546/)，2024-08-11
+* [大红灯笼高高挂](https://movie.douban.com/subject/1293323/)，2024-08-02，冲击性与人生哲学的思考性都很强，B站有非常精彩的解析
+* [芙蓉镇](https://movie.douban.com/subject/1297880/)，2024-07-28
+* [牧马人](https://movie.douban.com/subject/1308038/)，2024-07-28
+* [红柿子](https://movie.douban.com/subject/1303637/)
+* [火烧圆明园](https://movie.douban.com/subject/1299578/)
 * [硫磺岛的来信](https://movie.douban.com/subject/1917171/)
 * [三毛从军记](https://movie.douban.com/subject/2132220/)
 * [八佰](https://movie.douban.com/subject/26754233/)
@@ -57,11 +63,8 @@ tags: [
 
 ### 其它
 
-* [霸王别姬](https://movie.douban.com/subject/1291546/)，2024-08-11
-* [大红灯笼高高挂](https://movie.douban.com/subject/1293323/)，2024-08-02，冲击性与人生哲学的思考性都很强，B站有非常精彩的解析
+* [黎明墙](https://movie.douban.com/subject/30157353/)，2024-10-19
 * [魔鬼小提琴家帕格尼尼](https://movie.douban.com/subject/11528266/)，2024-08-02
-* [芙蓉镇](https://movie.douban.com/subject/1297880/)，2024-07-28
-* [牧马人](https://movie.douban.com/subject/1308038/)，2024-07-28
 * [飞越疯人院](https://movie.douban.com/subject/1292224/)，2024-07-27
 * [浪潮](https://movie.douban.com/subject/2297265/)，2024-07-08
 * [肖申克的救赎](https://movie.douban.com/subject/1292052/)，2024-07-07
@@ -86,7 +89,6 @@ tags: [
 * [垂直极限](https://movie.douban.com/subject/1301166/)
 * [Cube.心慌方](https://movie.douban.com/subject/1305903/): ★★★★★
 * [上帝也疯狂](https://movie.douban.com/subject/1297478/): ★★★★★
-* [红柿子](https://movie.douban.com/subject/1303637/)
 * [伴我同行.1986](https://movie.douban.com/subject/1292925/)
 * [海蒂和爷爷](https://movie.douban.com/subject/25958717/): ★★★★★
 * [音乐之声](https://movie.douban.com/subject/1294408/): ★★★★★
