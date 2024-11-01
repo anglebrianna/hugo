@@ -63,6 +63,7 @@ tags: [
 
 ### 其它
 
+* [七宗罪](https://movie.douban.com/subject/1292223/)，2024-10-27
 * [黎明墙](https://movie.douban.com/subject/30157353/)，2024-10-19
 * [魔鬼小提琴家帕格尼尼](https://movie.douban.com/subject/11528266/)，2024-08-02
 * [飞越疯人院](https://movie.douban.com/subject/1292224/)，2024-07-27
