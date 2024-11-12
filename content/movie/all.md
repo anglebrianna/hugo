@@ -16,6 +16,7 @@ tags: [
 
 ### 动物
 
+* [人鱼童话](https://movie.douban.com/subject/1294754/)，2024-11-08
 * [虎兄虎弟](https://movie.douban.com/subject/1309135/): ★★★★★
 * [灵犬雪莉](https://movie.douban.com/subject/25745494/)
 * [多哥 Togo (2019)](https://movie.douban.com/subject/30271841/)
@@ -41,6 +42,7 @@ tags: [
 
 ### 历史
 
+* [荆轲刺秦王](https://movie.douban.com/subject/1294693/)，2024-11-02
 * [霸王别姬](https://movie.douban.com/subject/1291546/)，2024-08-11
 * [大红灯笼高高挂](https://movie.douban.com/subject/1293323/)，2024-08-02，冲击性与人生哲学的思考性都很强，B站有非常精彩的解析
 * [芙蓉镇](https://movie.douban.com/subject/1297880/)，2024-07-28

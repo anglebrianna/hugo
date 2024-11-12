@@ -17,7 +17,9 @@ tags: [
 
 ### 小学
 
+* [失明症漫记](https://book.douban.com/subject/35984787/)
 * [大师与玛格丽特](https://book.douban.com/subject/27069991/)
+* [机器人短篇全集](https://book.douban.com/subject/24882289/)
 * [永恒的终结](https://book.douban.com/subject/25829693/)
 * [平面国](https://book.douban.com/subject/35170896/)
 * [我有友情要出租](https://book.douban.com/subject/1781014/)
@@ -29,12 +31,15 @@ tags: [
 * [洞](https://book.douban.com/subject/25886974/)
 * [魔法师的接班人](https://book.douban.com/subject/34988849/)
 * [献给阿尔吉侬的花束](https://book.douban.com/subject/26362836/): ★★★★★，有同名电影
+* [大历史：从宇宙大爆炸到我们人类的未来，138亿年的非凡旅程](https://book.douban.com/subject/30420866/)
+* [DK 科学大百科全书](https://book.douban.com/subject/35720817/)
 * [DK 儿童图解百科全书·化学元素](https://book.douban.com/subject/34810477/)
 * [DK 万物运转的秘密](https://book.douban.com/subject/34874257/)
 * [可怕的科学系列](https://book.douban.com/subject/10734899/)
 * [手中都是星星](https://book.douban.com/subject/26706970/): ★★★★★
 * [随风而来的玛丽阿姨](https://book.douban.com/subject/1433572/): ★★★★★，系列：《随风而来的玛丽阿姨》、《玛丽阿姨和隔壁房子》《玛丽阿姨回来了》、《玛丽阿姨打开虚幻的门》、《玛丽阿姨的神怪故事》、《玛丽阿姨在樱桃树胡同》。
 * [无人生还](https://book.douban.com/subject/35100861/): ★★★★★，有同名电影。阿加莎·克里斯蒂作品精选集：《ABC谋杀案》、《东方快车谋杀案》、《罗杰疑案》
+* [漫画中国：长城](https://book.douban.com/subject/30398149/)
 * [漫画中国：故宫](https://book.douban.com/subject/30398149/)
 * [半小时漫画唐诗](https://book.douban.com/subject/33441524/)
 * [半小时漫画世界史](https://book.douban.com/subject/30191803/)
