@@ -42,6 +42,7 @@ tags: [
 
 ### 历史
 
+* [斯大林格勒战役](https://movie.douban.com/subject/1293750/)，2024-12-07
 * [荆轲刺秦王](https://movie.douban.com/subject/1294693/)，2024-11-02
 * [霸王别姬](https://movie.douban.com/subject/1291546/)，2024-08-11
 * [大红灯笼高高挂](https://movie.douban.com/subject/1293323/)，2024-08-02，冲击性与人生哲学的思考性都很强，B站有非常精彩的解析
@@ -65,6 +66,7 @@ tags: [
 
 ### 其它
 
+* [飞翔的艺术](https://movie.douban.com/subject/6873875/)，2024-11-22
 * [七宗罪](https://movie.douban.com/subject/1292223/)，2024-10-27
 * [黎明墙](https://movie.douban.com/subject/30157353/)，2024-10-19
 * [魔鬼小提琴家帕格尼尼](https://movie.douban.com/subject/11528266/)，2024-08-02
