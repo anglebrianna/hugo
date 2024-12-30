@@ -42,6 +42,7 @@ tags: [
 
 ### 历史
 
+* [三国演义](https://movie.douban.com/subject/1830528/)
 * [斯大林格勒战役](https://movie.douban.com/subject/1293750/)，2024-12-07
 * [荆轲刺秦王](https://movie.douban.com/subject/1294693/)，2024-11-02
 * [霸王别姬](https://movie.douban.com/subject/1291546/)，2024-08-11
@@ -66,6 +67,8 @@ tags: [
 
 ### 其它
 
+* [出走的决心](https://movie.douban.com/subject/36587974/)，2024-12-27
+* [何以为家](https://movie.douban.com/subject/30170448/)，2024-12-22
 * [飞翔的艺术](https://movie.douban.com/subject/6873875/)，2024-11-22
 * [七宗罪](https://movie.douban.com/subject/1292223/)，2024-10-27
 * [黎明墙](https://movie.douban.com/subject/30157353/)，2024-10-19
