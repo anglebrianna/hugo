@@ -18,7 +18,7 @@ tags: [
 ### 小学
 
 * [星期三战争](https://book.douban.com/subject/4199539/)
-* [知更鸟]()
+* [知更鸟](https://book.douban.com/subject/34882394/)
 * [失明症漫记](https://book.douban.com/subject/35984787/)
 * [大师与玛格丽特](https://book.douban.com/subject/27069991/)
 * [机器人短篇全集](https://book.douban.com/subject/24882289/)

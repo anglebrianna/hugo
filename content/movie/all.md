@@ -57,6 +57,7 @@ tags: [
 * [稻草人.1987](https://movie.douban.com/subject/1308607/)
 * [兵临城下](https://movie.douban.com/subject/1301726)
 * [这里的黎明静悄悄](https://movie.douban.com/subject/26384515/)
+* [拯救大兵瑞恩]()
 * [桂河大桥](https://movie.douban.com/subject/1294958/)
 * [虎！虎！虎！](https://movie.douban.com/subject/1294562/)
 * [中途岛](https://movie.douban.com/subject/1292600/)
@@ -78,6 +79,10 @@ tags: [
 * [肖申克的救赎](https://movie.douban.com/subject/1292052/)，2024-07-07
 * [献给阿尔吉侬的花束](https://movie.douban.com/subject/1304030/)，2024-06-30
 * [闪灵](https://movie.douban.com/subject/1292225/)，2024-06-29
+* [天堂电影院](https://movie.douban.com/subject/1291828/)
+* [阿甘正传](https://movie.douban.com/subject/1292720/)
+* [布达佩斯大饭店](https://movie.douban.com/subject/11525673/)
+* [心灵捕手](https://movie.douban.com/subject/1292656/)
 * [年会不能停](https://movie.douban.com/subject/35725869/)
 * [星际穿越](https://m.douban.com/movie/subject/1889243/)
 * [寻找薇薇安·迈尔](https://movie.douban.com/subject/21356379/)
