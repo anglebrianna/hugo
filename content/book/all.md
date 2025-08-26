@@ -43,6 +43,8 @@ tags: [
 * [无人生还](https://book.douban.com/subject/35100861/): ★★★★★，有同名电影。阿加莎·克里斯蒂作品精选集：《ABC谋杀案》、《东方快车谋杀案》、《罗杰疑案》
 * [漫画中国：长城](https://book.douban.com/subject/30398149/)
 * [漫画中国：故宫](https://book.douban.com/subject/30398149/)
+* [半小时漫画宇宙大爆炸](https://book.douban.com/subject/35658412/)
+* [半小时漫画水浒](https://book.douban.com/subject/37163271/)
 * [半小时漫画唐诗](https://book.douban.com/subject/33441524/)
 * [半小时漫画世界史](https://book.douban.com/subject/30191803/)
 * [半小时漫画中国史](https://book.douban.com/subject/27003014/)
@@ -141,8 +143,6 @@ tags: [
 * [宝宝的第一本躲猫猫游戏书：谁](https://book.douban.com/subject/19995749/)
 * [蹦!](https://book.douban.com/subject/3299715/)
 
-
-
 ## 英文
 
 ### 其它
@@ -178,3 +178,17 @@ tags: [
 * [Brown Bear](https://book.douban.com/subject/1840280/)
 * [I Am a Bunny](https://book.douban.com/subject/2364161/)
 * [The Zoo](https://book.douban.com/subject/4433632/)
+
+## 古诗文
+
+* [唐宋词十七讲](https://book.douban.com/subject/2005705/)
+* [叶嘉莹说汉魏六朝诗](https://book.douban.com/subject/1961670/)
+* [叶嘉莹说中晚唐诗](https://book.douban.com/subject/2995251/)
+* [叶嘉莹说初盛唐诗](https://book.douban.com/subject/30337691/)，根据人物品行、生平和背景来论诗作特色，依次讲述初唐：王绩、杜审言、王勃、骆宾王、陈子昂、张九龄，盛唐：孟浩然、王维、李白、王昌龄、王之涣、高适、岑参，这些诗人及其代表作。叶老非常善于总结和比较各个诗人的特色，并附带讲述诗的演化脉络。
+* [月迷津渡](https://book.douban.com/subject/10564509/)，孙绍振，文本细读
+* [一本初中文言文完全解读](https://book.douban.com/subject/31798655/)，一本考试研究中心，湖南教育出版社，蔡德权
+* 初中必备古诗文背诵打卡计划-艾宾浩斯记忆法
+* [一本高中文言文完全解读](https://www.taobao.com/list/item/925401079688.htm)，一本考试研究中心，湖南教育出版社
+* [古诗课](https://book.douban.com/subject/35221771/)，小学75篇古诗文解读：作者生平、写作背景、历史背景、同主题诗词对比。
+* 小学必备古诗文背诵打卡计划-艾宾浩斯记忆法
+* [一本小学生必背古诗词75+80首+必背文言文古诗词解读](https://book.douban.com/subject/37478605/)，一本考试研究中心，湖南教育出版社
