@@ -15,8 +15,17 @@ tags: [
 
 ## 中文
 
+### 中预
+
 ### 小学
 
+#### 哈利波特系列
+
+* [哈利波特](https://book.douban.com/subject/35599647/): ★★★★★
+
+#### 其它
+
+* [童年](https://book.douban.com/subject/1009285/)
 * [星期三战争](https://book.douban.com/subject/4199539/)
 * [知更鸟](https://book.douban.com/subject/34882394/)
 * [失明症漫记](https://book.douban.com/subject/35984787/)
@@ -59,7 +68,6 @@ tags: [
 * [伊娃·伊博森：女巫新娘](https://book.douban.com/subject/35218060/): ★★★★★
 * [伊娃·伊博森：非凡十二岁](https://book.douban.com/subject/30281931/): ★★★★★
 * [聊斋志异](https://book.douban.com/subject/36432848/)
-* [哈利波特](https://book.douban.com/subject/35599647/): ★★★★★
 * [纳尼亚传奇](https://book.douban.com/subject/25787839/): ★★★★★
 * [骑鹅旅行记](https://book.douban.com/subject/30774157/)
 * [汤姆·索亚历险记](https://book.douban.com/subject/2193881/)
@@ -186,9 +194,9 @@ tags: [
 * [叶嘉莹说中晚唐诗](https://book.douban.com/subject/2995251/)
 * [叶嘉莹说初盛唐诗](https://book.douban.com/subject/30337691/)，根据人物品行、生平和背景来论诗作特色，依次讲述初唐：王绩、杜审言、王勃、骆宾王、陈子昂、张九龄，盛唐：孟浩然、王维、李白、王昌龄、王之涣、高适、岑参，这些诗人及其代表作。叶老非常善于总结和比较各个诗人的特色，并附带讲述诗的演化脉络。
 * [月迷津渡](https://book.douban.com/subject/10564509/)，孙绍振，文本细读
+* [一本高中文言文完全解读](https://www.taobao.com/list/item/925401079688.htm)，一本考试研究中心，湖南教育出版社
 * [一本初中文言文完全解读](https://book.douban.com/subject/31798655/)，一本考试研究中心，湖南教育出版社，蔡德权
 * 初中必备古诗文背诵打卡计划-艾宾浩斯记忆法
-* [一本高中文言文完全解读](https://www.taobao.com/list/item/925401079688.htm)，一本考试研究中心，湖南教育出版社
 * [古诗课](https://book.douban.com/subject/35221771/)，小学75篇古诗文解读：作者生平、写作背景、历史背景、同主题诗词对比。
 * 小学必备古诗文背诵打卡计划-艾宾浩斯记忆法
 * [一本小学生必背古诗词75+80首+必背文言文古诗词解读](https://book.douban.com/subject/37478605/)，一本考试研究中心，湖南教育出版社
